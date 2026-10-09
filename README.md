@@ -8,16 +8,20 @@ I wanted to build a Data Structure Visualizer to make this whole process a lot l
 
 
 # Features 
-Visualizing the Essentials:Covers the main structures we struggle with the most—like Linked Lists, Stacks, Queues, Binary Search Trees, and Graphs.
+
+1.Visualizing the Essentials:Covers the main structures we struggle with the most—like Linked Lists, Stacks, Queues, Binary Search Trees, and Graphs.
 The visual canvas updates automatically whenever you insert, delete, or search for a node, so you can actually see the structure changing shape.
-Play, Pause, and Step Through: You can pause the animation anytime or click step-by-step through the algorithm to see exactly what changed in that split second.
-Speed Slider: Lets you speed through the simple stuff or slow things down to a crawl when tricky operations like tree rotations happen.
-Custom Inputs & Random Generator:You aren't stuck with fixed hardcoded data—you can type in your own custom numbers or nodes to test edge cases.
+
+2.Play, Pause, and Step Through: You can pause the animation anytime or click step-by-step through the algorithm to see exactly what changed in that split second.
+
+3.Speed Slider: Lets you speed through the simple stuff or slow things down to a crawl when tricky operations like tree rotations happen.
+
+4.Custom Inputs & Random Generator:You aren't stuck with fixed hardcoded data—you can type in your own custom numbers or nodes to test edge cases.
 Has a quick Randomize button if you just want to generate test data instantly.
-Side-by-Side Code Highlighting:Displays matching pseudocode (or standard C++/Python snippet) right next to the canvas.
+
+5.Side-by-Side Code Highlighting:Displays matching pseudocode (or standard C++/Python snippet) right next to the canvas.
 Highlights the exact line running at that moment, which makes it way easier to connect actual code logic to the visual movement.
-Simple Step Explanations:A small log box at the bottom that gives plain-English notes on what's going on (like "Moving head pointer to Node 4" or "Node 12 is unbalanced, starting left rotation").
 
-Runs Right in the Browser:
+6.Simple Step Explanations:A small log box at the bottom that gives plain-English notes on what's going on (like "Moving head pointer to Node 4" or "Node 12 is unbalanced, starting left rotation").
 
-Built as a web application, so there’s zero setup required—no installing libraries, compilers, or extra software to run it.
+7.Runs Right in the Browser:Built as a web application, so there’s zero setup required—no installing libraries, compilers, or extra software to run it.
