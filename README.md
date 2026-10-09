@@ -116,7 +116,9 @@ Preparing user instructions (keybindings and controls).
 
 
 # Frequently Asked Questions 
+
 Q1: What is a Data Structure Visualizer?
+
 It’s a tool that takes abstract concepts like linked lists, trees, and stacks and converts them into step-by-step graphical or terminal animations. It lets you actually watch pointers move, nodes get created, and memory get freed in real time.
 
 Q2: Why did you choose C language instead of a higher-level language like Python or JavaScript?
