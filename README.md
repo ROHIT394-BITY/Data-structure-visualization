@@ -1,1 +1,2 @@
-# Data-structure-visualization
+# Data-structure-visualizer
+# Motivation
